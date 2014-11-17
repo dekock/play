@@ -1,0 +1,57 @@
+body {
+   background: #f5f5f5;
+}
+
+.content-col-main {
+float:right;
+width:70%;
+padding:1%;
+border: 1px dotted #ccc;
+background: #fff;
+}
+
+.content-col-side {
+float:left;
+width:210px;
+padding:1%;
+border: 1px dotted #ccc;
+background: #fff;
+}
+
+.content-google-ad {
+float:right;
+width:20%;
+padding:1%;
+border: 1px dotted #ccc;
+background: #fff;
+}
+
+.content-section-two {
+float:left;
+width:70%;
+padding:1%;
+border: 1px dotted #ccc;
+background: #fff;
+}
+
+.content-image-three {
+float:right;
+width:210px;
+padding:1%;
+border: 1px dotted #ccc;
+background: #fff;
+}
+
+.content-section-three {
+float:left;
+width:70%;
+padding:1%;
+border: 1px dotted #ccc;
+background: #fff;
+}
+
+img { /* Makes sure your images stay within their columns */
+   max-width: 100%;
+   width: auto;
+   height: auto;
+}
